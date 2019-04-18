@@ -12,8 +12,6 @@ You can
 <img src="./screenshots/main_activity.jpg" width="30%" height="30%">&ensp;<img src="./screenshots/comment.jpg" width="30%" height="30%">&ensp;
 ------
 <img src="./screenshots/list_view.jpg" width="30%" height="30%">&ensp;<img src="./screenshots/pie_view.jpg" width="30%" height="30%">&ensp;
-------
-<img src="./screenshots/share_mood.jpg" width="30%" height="30%">
 
 
 
