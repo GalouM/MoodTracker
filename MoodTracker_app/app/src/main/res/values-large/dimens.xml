@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_button_main_activity">80dip</dimen>
+    <dimen name="big_margin">40dip</dimen>
+    <dimen name="medium_margin">25dip</dimen>
+    <dimen name="small_margin">10dip</dimen>
+
+
+    <!--TEXT DIMEN -->
+    <dimen name="text_normal">20sp</dimen>
+    <dimen name="size_mood_button">35dip</dimen>
+    <dimen name="card_view_height">130dip</dimen>
+</resources>

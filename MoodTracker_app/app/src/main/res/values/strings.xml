@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MoodTracker</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_dialog_comment">Commentaire</string>
+    <string name="validate_button_dialog_comment">VALIDER</string>
+    <string name="cancel_button_dialog_comment">ANNULER</string>
+
+    <string name="date_format">dd-MM-yyyy</string>
+    <string name="text_view_feeling_week">Il y a %se semaine</string>
+    <string name="text_view_feeling_weeks">Il y a %s semaines</string>
+    <string name="text_view_feeling_days">Il y a %s jours</string>
+    <string name="text_view_feeling_month">Il y a plus d\'un mois</string>
+    <string name="text_view_feeling_yesterday">Hier</string>
+    <string name="text_view_feeling_two_days_ago">Avant-hier</string>
+    <string name="mood_to_string_super_happy">super bonne humeur</string>
+    <string name="mood_to_string_happy">bonne humeur</string>
+    <string name="mood_to_string_normal">humeur normal</string>
+    <string name="mood_to_string_disappointed">mauvaise humeur</string>
+    <string name="mood_to_string_sad">très mauvaise humeur</string>
+    <string name="mood_to_string_not_recognize">pas de mood reconnu</string>
+    <string name="share_intent_share_your_mood">Partager votre mood</string>
+    <string name="i_was_on_mood_to_string">J\'étais de %s le %s, %s</string>
+    <string name="format_diplsay_date">dd/MM/yyy</string>
+    <string name="no_mood_saved_toast">Vous n\'avez pas encore enregitré de mood</string>
+
+</resources>
+
+

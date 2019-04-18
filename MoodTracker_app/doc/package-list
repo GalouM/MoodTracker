@@ -1,0 +1,5 @@
+com.galou.moodtracker.controllers.activity
+com.galou.moodtracker.controllers.adapter
+com.galou.moodtracker.controllers.fragments
+com.galou.moodtracker.models
+com.galou.moodtracker.views

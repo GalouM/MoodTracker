@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_activity_rootview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".controllers.activity.MainActivity">
+
+
+    <com.galou.moodtracker.views.VerticalViewPager
+
+        android:id="@+id/activity_main_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+    <ImageButton
+        android:id="@+id/main_activity_comment_button"
+        android:src="@drawable/ic_note_add_black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        style="@style/MoodTrackerImageButton.MainButton"/>
+
+    <ImageButton
+        android:id="@+id/main_activity_pie_chart_button"
+        style="@style/MoodTrackerImageButton.MainButton"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:src="@drawable/baseline_pie_chart_black_48"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageButton
+        android:id="@+id/main_activity_history_button"
+        android:src="@drawable/ic_history_black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintRight_toLeftOf="parent"
+        style="@style/MoodTrackerImageButton.MainButton"/>
+
+</android.support.constraint.ConstraintLayout>
