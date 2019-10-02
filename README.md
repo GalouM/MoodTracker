@@ -21,6 +21,9 @@ You can
 * [ButterKnife](https://jakewharton.github.io/butterknife/)
 * [HelloChart](https://github.com/lecho/hellocharts-android)
 
+## Pattern
+MVC
+
 ## Developed By
 
 Galou Minisini
