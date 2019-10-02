@@ -21,8 +21,9 @@ You can
 * [ButterKnife](https://jakewharton.github.io/butterknife/)
 * [HelloChart](https://github.com/lecho/hellocharts-android)
 
-## Pattern
-MVC
+## Architecture
+* MVC
+* Java
 
 ## Developed By
 
